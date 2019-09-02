@@ -1,24 +1,24 @@
 # /_data/authors.yml
 
 Yu Zhang:
-  name             : "Yu Zhang"
+  name             : "Kai Liu"
   avatar           : "/assets/images/my_bio_s.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD student @ IVRC at Beijing Institute of Technology, visiting student @ WAVELab at University of Waterloo."
+  bio              : "PhD student @ IVRC at Beijing Institute of Technology, visiting student @ Center for Automotive Research at Ohio State University."
   location         : "Beijing, China"
-  email            : yu.zhang.bit@gmail.com
-  uri              : http://yuzhangbit.github.io
+  email            : leoking1025@bit.edu.cn
+  uri              : https://leoking99-bit.github.io/
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : yuzhangbit
+  github           : leoking99-BIT
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/kai-liu-032213100/
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -28,4 +28,4 @@ Yu Zhang:
   vine             :
   weibo            :
   xing             :
-  youtube          : UCsgiPR2CMjsWcrtFIXQS6EQ # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : UCsgiPR2CMjsWcrtFIXQS6EQ # "https://www.youtube.com/channel/UCbM4y7vJQPmpKQ1SgOt1kVw?view_as=subscriber"
