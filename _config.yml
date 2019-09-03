@@ -9,13 +9,13 @@
 theme                    : minimal-mistakes-jekyll
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 locale                   : "en-US" #"en-US"  "zh-CN"
-title                    : "Yu Zhang's Homepage"
+title                    : "Kai Liu's Homepage"
 title_separator          : "-"
-name                     : "Yu Zhang"
+name                     : "Kai Liu"
 description              : "My personal website where you can know me and get in touch with me."
-url                      : https://yuzhangbit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://leoking99-BIT.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : yuzhangbit/yuzhangbit.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : leoking99-BIT/leoking99-BIT.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -67,7 +67,7 @@ og_image                 : # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Person # Person or Organization (defaults to Person)
-  name                   : Yu Zhang # If the user or organization name differs from the site's name
+  name                   : Kai Liu # If the user or organization name differs from the site's name
   links                  : https://yuzhangbit.github.io   # An array of links to social media profiles
 
 # Analytics
@@ -79,7 +79,7 @@ analytics:
 
 
 # Site Author
-author: Yu Zhang
+author: Kai Liu
 
 teaser: /assets/images/default_teaser.jpg
 
