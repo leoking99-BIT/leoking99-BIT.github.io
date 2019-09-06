@@ -5,4 +5,4 @@ layout: single
 classes: wide
 ---
 
-<embed src="{{ site.url }}{{ site.baseurl }}/assets/pdfs/Yu_Zhang_CV.pdf" type="application/pdf" height="100%" width="100%"/>
+<embed src="{{ site.url }}{{ site.baseurl }}/assets/pdfs/Kai_Liu_CV.pdf" type="application/pdf" height="100%" width="100%"/>

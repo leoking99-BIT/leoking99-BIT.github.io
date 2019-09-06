@@ -28,24 +28,6 @@ feature_convexspeed:
       btn_label: "Read More"
       btn_class: "btn--primary"
 
-feature_autonomoose:
-  - image_path: /assets/images/autonomoose.jpg
-    alt: "placeholder image 2"
-    title: "Autonomoose"
-    excerpt: 'Autonomous driving towards the ultimately level 4 autonomy with the **Autonomoose** platform in all-weather conditions that are specific to Canada in University of Waterloo. This project has attracted several industrial partners such as RENESAS, DENSO, QNX and Huawei.'
-    url: "/autonomoose_project"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
-feature_skyline:
-  - image_path: /assets/images/skyline.jpg
-    alt: "placeholder image 2"
-    title: "Skyline CES 2017"
-    excerpt: 'The Skyline CES (Consumer Electronics Show) 2017 is a demo project to show the functional safety of autonomous driving systems with collaboration of RENESAS, [Autonomoose team in UW](https://www.autonomoose.net/team), QNX, POLYSYNC, AutonomouStuff, and eTRANS.'
-    url: "/skyline_project"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-
 feature_row:
   - image_path: /assets/images/titian.jpg
     alt: "placeholder image 1"

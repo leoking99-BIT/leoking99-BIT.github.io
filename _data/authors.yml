@@ -2,18 +2,18 @@
 
 Kai Liu:
   name             : "Kai Liu"
-  avatar           : "/assets/images/my_bio_s.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD student @ IVRC at Beijing Institute of Technology, visiting student @ Center for Automotive Research at Ohio State University."
+  avatar           : "/assets/images/kai_bio_visa.jpg" # path of avatar image, "/assets/images/kai_bio_s.jpg"
+  bio              : "Engineer @ UISEE, PhD @ Beijing Institute of Technology, Visiting scholar @ Ohio State University."
   location         : "Beijing, China"
-  email            : leoking1025@bit.edu.cn
+  github           : leoking99-BIT
   uri              : https://leoking99-bit.github.io/
+  CSDN             : https://download.csdn.net/my
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : leoking99-BIT
   google_plus      :
   keybase          :
   instagram        :
@@ -28,4 +28,5 @@ Kai Liu:
   vine             :
   weibo            :
   xing             :
+  email            : leoking1025@bit.edu.cn
   youtube          : UCsgiPR2CMjsWcrtFIXQS6EQ # "https://www.youtube.com/channel/UCbM4y7vJQPmpKQ1SgOt1kVw?view_as=subscriber"
