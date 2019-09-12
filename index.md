@@ -39,7 +39,7 @@ I developed several handy simulation tools to support motion planning and contro
 {: style="text-align: justify;"}
 
 
-## Industry
+## Work experience
 
 I am a motion plan and control engineer at UISEE, where I work with autonomous ground vehicles.
 Previously I was at SIAT-CAS, where I developed data acquisition and control code for electric vehicles.
@@ -56,7 +56,7 @@ Previously I was at SIAT-CAS, where I developed data acquisition and control cod
 ***Self-driving Vehicles and Model Predictive Control (2ed Edition)*** will be published.
 
 Code available at:
-[https://github.com/leoking99-BIT/Self-driving-Vehicles-and-Model-Predictive-Control](https://github.com/leoking99-BIT/Self-driving-Vehicles-and-Model-Predictive-Control)
+[https://github.com/leoking99-BIT/Self-driving-Vehicles-and-Model-Predictive-Control](https://github.com/leoking99-BIT/MPC-for-Self-driving-Vehicles)
 
 
 
