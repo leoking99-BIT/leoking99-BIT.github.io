@@ -16,7 +16,7 @@ toc_icon: "cog"
 ***Self-driving Vehicles and Model Predictive Control (2ed Edition)*** will be published.
 
 The simuation code for this book is now available at:
-[https://github.com/leoking99-BIT/Self-driving-Vehicles-and-Model-Predictive-Control](https://github.com/leoking99-BIT/Self-driving-Vehicles-and-Model-Predictive-Control)
+[https://github.com/leoking99-BIT/MPC-for-Self-driving-Vehicles](https://github.com/leoking99-BIT/MPC-for-Self-driving-Vehicles)
 
 
 
