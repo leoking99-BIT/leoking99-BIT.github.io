@@ -2,7 +2,7 @@
 
 Kai Liu:
   name             : "Kai Liu"
-  avatar           : "/assets/images/kai_bio_visa.jpg" # path of avatar image, "/assets/images/kai_bio_s.jpg"
+  avatar           : "/assets/images/kai_self.jpg" # path of avatar image, "/assets/images/kai_bio_s.jpg"
   bio              : "Engineer @ UISEE, PhD @ Beijing Institute of Technology, Visiting scholar @ Ohio State University."
   location         : "Beijing, China"
   github           : leoking99-BIT
