@@ -70,7 +70,7 @@ Previously I was at SIAT-CAS, where I developed data acquisition and control cod
 {% bibliography -q @book %}
 
 
-***Model Predictive Control for Self-driving Vehicles (2ed Edition)*** will be published.
+***Model Predictive Control for Self-driving Vehicles (2ed Edition)***
 
 Code available at:
 [https://github.com/leoking99-BIT/MPC-for-Self-driving-Vehicles](https://github.com/leoking99-BIT/MPC-for-Self-driving-Vehicles)
